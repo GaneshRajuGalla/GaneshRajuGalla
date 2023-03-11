@@ -1,7 +1,7 @@
 <a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+GaneshRajuGalla+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
   
-<h3 align="center">A passionate iOS developer  from India</h3>
+<h3 align="center">A passionate iOS developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
