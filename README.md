@@ -34,13 +34,9 @@
 
 ### Connect with me  :coffee:
 <p align="center">
-<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshrajugalla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganeshrajugalla/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15156897/ganesh-raju-galla" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/ganeshrajugalla?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ganeshrajugalla?igshid=zddkntzintm=" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ganeshrajugalla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ganeshrajugalla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ganeshrajugalla/" height="30" width="40" /></a>
+<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
 </p>
 
 
