@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ganesh+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ganesh Raju Galla+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
   
 <h3 align="center">A passionate iOS developer  from India</h3>
@@ -33,7 +33,7 @@
 </div>
 
 ### Connect with me  :coffee:
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshrajugalla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganeshrajugalla/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15156897/ganesh-raju-galla" height="30" width="40" /></a>
@@ -42,6 +42,7 @@
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ganeshrajugalla" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ganeshrajugalla/" height="30" width="40" /></a>
 </p>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
