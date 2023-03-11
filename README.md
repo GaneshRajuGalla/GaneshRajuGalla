@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working At **TechAhead!**
 
-- 🌱 I’m currently learning **ARKit,Core ML,Core Data,Vapor,Combine,Realm**
+- 🌱 I’m currently learning **ARKit,Core ML,Combine,Realm**
 
 - 👯 I’m looking to collaborate with **iOS Devs**
 
