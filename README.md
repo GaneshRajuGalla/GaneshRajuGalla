@@ -1,4 +1,4 @@
-<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+Ganesh Raju Galla+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
+<a><h2> <img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there+👋;I'm+GaneshRajuGalla+🤝.;I'm+an+iOS+Developer+⚡;I+love+building+amazing+apps+👨‍💻.">
   </a></h2></a>
   
 <h3 align="center">A passionate iOS developer  from India</h3>
