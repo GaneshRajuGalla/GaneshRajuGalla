@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/theroyaiyetin" target="blank"><img src="https://img.shields.io/twitter/follow/theroyaiyetin?logo=twitter&style=for-the-badge" alt="theroyaiyetin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/theroyaiyetin?logo=twitter&style=for-the-badge" alt="theroyaiyetin" /></a> </p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
@@ -13,23 +13,19 @@
 
 - 🌱 I’m currently learning **ARKit,Core ML,Core Data,Vapor,Combine,Realm**
 
-- 👯 I’m looking to collaborate on **iOS Projects**
+- 👯 I’m looking to collaborate with **iOS Devs**
 
 - 🤝 I’m looking for help with **iOS Projects**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/GaneshRajuGalla)
 
-- 📝 I regularly post about iOS Development on [https://www.linkedin.com/in/ganeshrajugalla/](https://www.linkedin.com/in/ganeshrajugalla/)
-
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
-
-- 📝 I not-so regularly write articles and publish them [here](https://medium.com/@nkemaiyetin)
 
 - 📫 Reach me via **ganeshrajugalla@gmail.com**
 
 - 📄 Wanna know more about my experiences, check out my [resume](https://resume.io/r/YR3gnFDUg)
 
-- ⚡ Fun fact **I love cats** :cat:
+- ⚡ Fun fact **I love Coffee** :coffee:
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
@@ -37,10 +33,14 @@
 </div>
 
 ### Connect with me  :coffee:
-<p align="center">
-<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theroyaiyetin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roy aiyetin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17664098" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshrajugalla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ganeshrajugalla/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15156897/ganesh-raju-galla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15156897/ganesh-raju-galla" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/ganeshrajugalla?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ganeshrajugalla?igshid=zddkntzintm=" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@ganeshrajugalla" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/ganeshrajugalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ganeshrajugalla" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/ganeshrajugalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ganeshrajugalla/" height="30" width="40" /></a>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
