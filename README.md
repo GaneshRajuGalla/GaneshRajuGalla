@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/theroyaiyetin?logo=twitter&style=for-the-badge" alt="theroyaiyetin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshrajugalla?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
 
@@ -47,11 +47,11 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <a><h2>Stats ⚡</h2></a>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roynkem&layout=compact)](https://github.com/roynkem/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact)](https://github.com/ganeshrajugalla/github-readme-stats)
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roynkem&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=roynkem&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ganeshrajugalla&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Roy's streak" /></p>
   
   <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -74,14 +74,10 @@
 <a href="https://www.canva.com/features/free-icons/" target="_blank"> <img src="https://img.shields.io/badge/Canva-5d4de3?&style=for-the-badge&logo=Canva&logoColor=white " alt="Canva"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://img.shields.io/badge/Figma-13c6c0?style=for-the-badge&logo=figma&logoColor=blue " alt="figma"/> </a>  
 <a href="https://www.udemy.com" target="_blank"> <img src="https://img.shields.io/badge/Udemy-be32f5?style=for-the-badge&logo=Udemy&logoColor=black " alt="Udemy"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://img.shields.io/badge/Matlab-469b9a?style=for-the-badge&logo=mathwork&logoColor=white " alt="Matlab"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Ruby-971201?style=for-the-badge&logo=Ruby&logoColor=white" alt="Realm"/> </a>
-<a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Ruby"/> </a>
+<a href="https://realm.io/" target="_blank"> <img src="https://img.shields.io/badge/Realm-9a50a5?style=for-the-badge&logo=Realm&logoColor=white" alt="Realm"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-ee5c25?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/> </a>
 <a href="https://www.coursera.org/" target="_blank"> <img src="https://img.shields.io/badge/Coursera-0055d2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera/> </a>
 <a href="https://medium.com" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium/> </a>
-<a href="https://graphql.org" target="_blank"> <img src="https://img.shields.io/badge/GraphQL-e435aa?style=for-the-badge&logo=GraphQL&logoColor=white" alt="GraphQL/> </a>
 
 
 <!--START_SECTION:waka-->
