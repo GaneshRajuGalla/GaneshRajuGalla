@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working At **TechAhead!**
 
-- 🌱 I’m currently learning **ARKit,Core ML,Combine,Realm**
+- 🌱 I’m currently learning **ARKit,Core ML,Core Data,Vapor,Combine,Realm**
 
 - 👯 I’m looking to collaborate with **iOS Devs**
 
@@ -19,13 +19,15 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/GaneshRajuGalla)
 
+- 📝 I regularly write articles in [medium](https://medium.com/@ganeshrajugalla)
+
 - 💬 Ask me about **Swift, UIKit and SwiftUI**
 
 - 📫 Reach me via **ganeshrajugalla@gmail.com**
 
 - 📄 Wanna know more about my experiences, check out my [resume](https://resume.io/r/YR3gnFDUg)
 
-- ⚡ Fun fact **I love Coffee** :coffee:
+- ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/ganeshrajugalla)
 
 <div align="center"> 
 <i>Random dev jokes for you my friend!</i></br></br>
