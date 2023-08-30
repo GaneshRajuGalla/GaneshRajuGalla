@@ -25,7 +25,7 @@
 
 - 📫 Reach me via **ganeshrajugalla@gmail.com**
 
-- 📄 Wanna know more about my experiences, check out my [resume](https://resume.io/r/YR3gnFDUg)
+- 📄 Wanna know more about my experiences, check out my [resume](https://github.com/GaneshRajuGalla/Resume)
 
 - ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/ganeshrajugalla)
 
