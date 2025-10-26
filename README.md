@@ -63,43 +63,11 @@ Real-time location sharing platform with innovative MapKit integration.
 
 **Technologies:** MapKit · CoreLocation · SwiftUI · Combine
 
-## 📊 GitHub Analytics
+## My Tech Stack
 
-<div align="center">
-  
-  <!-- GitHub Stats Card with Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" width="49%"/>
-  
-  <!-- Top Languages Card with Dark Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide=html,css&langs_count=8" alt="Top Languages" width="49%"/>
-
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Streak Stats with Dark Theme -->
-  <img src="https://streak-stats.demolab.com?user=ganeshrajugalla&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=8" alt="GitHub Streak" width="49%"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshrajugalla&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" alt="Contribution Graph" width="98%"/>
-
-</div>
-
-<div align="center">
-  
-  <!-- Profile Summary Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshrajugalla&theme=tokyonight" alt="Profile Details" width="98%"/>
-  
-  <!-- Stats and Productive Time -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshrajugalla&theme=tokyonight" alt="Stats" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshrajugalla&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshrajugalla&theme=tokyonight" alt="Repos per Language" width="32%"/>
-
-</div>
-
-## My Tech Stack ⚡
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif#gh-light-mode-only" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+
 <p align="center">
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.shields.io/badge/Xcode-1882e8?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode"/> </a>
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.shields.io/badge/Swift-f15139?style=for-the-badge&logo=Swift&logoColor=white" alt="Swift"/> </a>
@@ -124,7 +92,33 @@ Real-time location sharing platform with innovative MapKit integration.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
+## GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ganeshrajugalla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" width="49%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshrajugalla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide=html,css&langs_count=8" alt="Top Languages" width="49%"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://streak-stats.demolab.com?user=ganeshrajugalla&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&border_radius=8" alt="GitHub Streak" width="49%"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshrajugalla&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&area_color=1f6feb" alt="Contribution Graph" width="98%"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshrajugalla&theme=tokyonight" alt="Profile Details" width="98%"/>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshrajugalla&theme=tokyonight" alt="Stats" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ganeshrajugalla&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshrajugalla&theme=tokyonight" alt="Repos per Language" width="32%"/>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
