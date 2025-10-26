@@ -1,26 +1,22 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/bf13027b-c3ef-4365-83e3-419978f21a37" alt="iOS Developer Banner" width="100%"/>
-
-<br>
-
 # Ganesh Raju Galla
 
-**iOS Engineer · Crafting exceptional experiences across the Apple ecosystem**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=iOS+Engineer;Building+for+iOS+%7C+iPadOS+%7C+watchOS;macOS+%7C+visionOS;Crafting+Exceptional+Apple+Experiences" alt="Typing SVG" />
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/9d6cd0a5-443e-4f2f-ab84-7c242a364f87" alt="iPhone" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/7e2469db-bdfc-400c-aee8-4f23747cb0ad" alt="iOS" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/678ffadb-34ee-4410-90c9-8f301f5df23f" alt="iPadOS" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/c4e4d2d4-deab-4103-9a56-891f07133e57" alt="watchOS" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/dedaff68-d080-49de-9f02-0b47b80e57c9" alt="macOS" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/ddcc04f9-404c-482f-a107-6789292612fb" alt="visionOS" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/863439f3-b572-4a23-996d-87812d498e6b" alt="App" height="60"/>
+<img src="https://github.com/user-attachments/assets/9d6cd0a5-443e-4f2f-ab84-7c242a364f87" alt="iPhone" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7e2469db-bdfc-400c-aee8-4f23747cb0ad" alt="iPad" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/678ffadb-34ee-4410-90c9-8f301f5df23f" alt="SDK" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/c4e4d2d4-deab-4103-9a56-891f07133e57" alt="Framework" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/dedaff68-d080-49de-9f02-0b47b80e57c9" alt="Vision Pro" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/ddcc04f9-404c-482f-a107-6789292612fb" alt="MacBook" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/863439f3-b572-4a23-996d-87812d498e6b" alt="Apple Watch" height="80"/>
 
 <br><br>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer" width="400"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="400"/>
 
 <br><br>
 
