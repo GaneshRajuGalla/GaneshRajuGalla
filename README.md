@@ -2,17 +2,15 @@
 
 # Ganesh Raju Galla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=iOS+Engineer;Building+for+iOS+%7C+iPadOS+%7C+watchOS;macOS+%7C+visionOS;Crafting+Exceptional+Apple+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=iOS+Engineer;Building+for+watchOS+%7C+iOS+%7C+iPadOS;macOS+%7C+visionOS;Crafting+Exceptional+Apple+Experiences" alt="Typing SVG" />
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/9d6cd0a5-443e-4f2f-ab84-7c242a364f87" alt="iPhone" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/7e2469db-bdfc-400c-aee8-4f23747cb0ad" alt="iPad" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/678ffadb-34ee-4410-90c9-8f301f5df23f" alt="SDK" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/c4e4d2d4-deab-4103-9a56-891f07133e57" alt="Framework" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/dedaff68-d080-49de-9f02-0b47b80e57c9" alt="Vision Pro" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/ddcc04f9-404c-482f-a107-6789292612fb" alt="MacBook" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/863439f3-b572-4a23-996d-87812d498e6b" alt="Apple Watch" height="80"/>
+<img src="https://github.com/user-attachments/assets/863439f3-b572-4a23-996d-87812d498e6b" alt="Apple Watch" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/9d6cd0a5-443e-4f2f-ab84-7c242a364f87" alt="iPhone" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7e2469db-bdfc-400c-aee8-4f23747cb0ad" alt="iPad" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/ddcc04f9-404c-482f-a107-6789292612fb" alt="MacBook" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/dedaff68-d080-49de-9f02-0b47b80e57c9" alt="Vision Pro" height="80"/>
 
 <br><br>
 
